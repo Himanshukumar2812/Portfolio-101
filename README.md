@@ -2,6 +2,11 @@
 
 This is a basic portfolio project built using React. The portfolio showcases your skills, projects, and contact information.
 
+# Online deployment
+We have deployed our project on the cloud using Netlify. It can be accessed using the following link:
+
+https://amazon-in-clone-1928.netlify.app
+
 ## Getting Started
 
 To get started with the project, follow the instructions below:
